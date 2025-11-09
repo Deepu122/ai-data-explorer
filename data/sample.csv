@@ -1,0 +1,7 @@
+id,name,age,city,salary,last_login
+1,Ada,29,London,80000,2025-11-01
+2,Bob,34,,65000,2025-10-21
+3,Chen,27,Singapore,72000,
+4,Divya,,Bengaluru,69000,2025-11-05
+5,Elena,31,London,,2025-09-17
+6,Farid,29,Mumbai,61000,2025-08-03
